@@ -55,7 +55,7 @@ public class ExtensionLoader<T> {
     /**
      * 扩展类存放的目录地址
      */
-    private static final String EXTENSION_PATH = "META-INF/ccx-rpc/";
+    private static final String EXTENSION_PATH = "META-INF/the-rpc/";
 
     /**
      * 默认扩展名缓存
