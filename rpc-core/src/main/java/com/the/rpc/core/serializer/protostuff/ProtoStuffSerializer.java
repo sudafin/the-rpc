@@ -1,6 +1,6 @@
-package com.huangdada.rpc.core.serializer.protostuff;
+package com.the.rpc.core.serializer.protostuff;
 
-import com.huangdada.rpc.core.serializer.Serializer;
+import com.the.rpc.core.serializer.Serializer;
 import io.protostuff.LinkedBuffer;
 import io.protostuff.ProtostuffIOUtil;
 import io.protostuff.Schema;

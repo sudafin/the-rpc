@@ -1,5 +1,8 @@
-package com.huangdada.rpc.core.serializer;
+package com.the.rpc.core.serializer;
 
+import com.the.rpc.common.extension.SPI;
+
+@SPI("protostuff")
 //序列化器
 public interface Serializer {
     /**
